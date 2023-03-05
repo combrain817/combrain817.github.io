@@ -1,15 +1,15 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            뿌리부터 뿌리까지
+longtitle:        일신우일신
+author:           Choi Nak Soo
+email:            skrtn3410@gmail.com
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
+url:              'https://combrain817.github.io'
 baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
