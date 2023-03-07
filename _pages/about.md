@@ -1,9 +1,9 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
+author: cns
+date: 2023-03-07
 category: Jekyll
 layout: post
 ---
 
-This is an about page.
+안녕하세요 최낙수입니다
